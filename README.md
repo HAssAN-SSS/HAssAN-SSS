@@ -20,7 +20,7 @@ I'm on a journey to learn and become fluent in three languages:
 
 Feel free to connect with me and let's collaborate on exciting projects!
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=HAssAN-SSS)
+
 
 
 
